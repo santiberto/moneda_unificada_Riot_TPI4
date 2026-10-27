@@ -5,8 +5,17 @@ Alumno: Santino Bertorello
 
 Como funciona: al entrar a Tienda.py se le permite al usuario "Comprar" skins que quedan registradas en una cuenta Al entrar a el respectivo "juego"(Lol_user, Valorant_user o  2XKO_user) se pide que ingrese su usuario y se muestran los cosmeticos segun el juego al que se haya entrado
 
+
+Indicadores de Desempeño (KPIs) Técnicos
+
+Latencia de Transacción: El tiempo de respuesta del motor de pago central debe ser inferior a 200 ms bajo carga normal.
+Disponibilidad del Sistema (Uptime): 99.99% de disponibilidad para evitar bloqueos en las tiendas de los juegos activos.
+Tasa de Error Transaccional: Menor al 0.001% en inconsistencias de saldo durante operaciones concurrentes.
+
+
+
 Declaracion IA:
-En este trabajo se utilizo la IA de Gemini con el fin de ayudar en el desarrollo de BPMN, organización del proyecto en github y explicaciones de pasos a realizar para el tablero interactivo ágil los mismos fueron supervisados y modificados por el alumno con el fin de conseguir un trabajo mas acertado los promts fueron:
+En este trabajo se utilizo la IA de Gemini con el fin de ayudar en el desarrollo de BPMN, organización del proyecto en github y explicaciones de pasos a realizar para el tablero interactivo ágil  los mismos fueron supervisados y modificados por el alumno con el fin de conseguir un trabajo mas acertado los promts fueron:
 1"crea una plantilla de BPMN utilizando el sistema de moneda unificada de riot y dime un sitio web en el cual poder realizar el grafico"
 2"crea un ejemplo de un sistema interactivo agil y dime si puedo modificar el mismo sin modificaciones a tiempo real"
 3"muestrame un ejemplo de como debería de organizar mis archivos en un repositorio de github"
